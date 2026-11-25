@@ -1,8 +1,8 @@
-&#x20;Document de Repte — AulaSegura
+## Document de Repte — AulaSegura
 
 
 
-&#x20;Títol del projecte
+## Títol del projecte
 
 
 
@@ -10,21 +10,21 @@ AulaSegura: millora informàtica i ciberseguretat d'un col·legi.
 
 
 
-&#x20;Grup i membres
+## Grup i membres
 
 
 
-\- AlumneA: Rol A — coordinació, planificació i documentació.
+- AlumneA: Rol A — coordinació, planificació i documentació.
 
-\- AlumneB: Rol B — inventari d'equips i disseny de xarxes.
+- AlumneB: Rol B — inventari d'equips i disseny de xarxes.
 
-\- AlumneC: Rol C — serveis informàtics, seguretat i proves.
+- AlumneC: Rol C — serveis informàtics, seguretat i proves.
 
-\- Projecte realitzat individualment per NOMALUMNE amb rols simulats.
+- Projecte realitzat individualment per NOMALUMNE amb rols simulats.
 
 
 
-&#x20;Centre i curs
+## Centre i curs
 
 
 
@@ -32,7 +32,7 @@ IES Simarro · SMX 2n A · Curs 2026-2027.
 
 
 
-&#x20;Context i situació inicial
+## Context i situació inicial
 
 
 
@@ -40,7 +40,7 @@ Un xicotet col·legi utilitza ordinadors, connexió a Internet i programes per a
 
 
 
-&#x20;Repte proposat
+## Repte proposat
 
 
 
@@ -48,7 +48,7 @@ Dissenyar una proposta viable per a millorar l'organització de la xarxa, el man
 
 
 
-&#x20;Objectiu general
+## Objectiu general
 
 
 
@@ -56,83 +56,81 @@ Proposar una infraestructura informàtica més segura, organitzada i fàcil de m
 
 
 
-&#x20;Objectius específics
+## Objectius específics
 
 
 
-1\. Elaborar un inventari dels equips informàtics.
+1. Elaborar un inventari dels equips informàtics.
 
-2\. Dissenyar una xarxa diferenciada per a professors, alumnes i convidats.
+2. Dissenyar una xarxa diferenciada per a professors, alumnes i convidats.
 
-3\. Proposar mesures de seguretat per als comptes i les dades.
+3. Proposar mesures de seguretat per als comptes i les dades.
 
-4\. Preparar un pla d'actualització del programari i de còpies de seguretat.
-
-
-
-&#x20;Mòduls professionals implicats
+4. Preparar un pla d'actualització del programari i de còpies de seguretat.
 
 
 
-\- MP01 — Muntatge i manteniment d'equips.
-
-\- MP02 — Sistemes operatius monolloc.
-
-\- MP05 — Xarxes locals.
-
-\- MP06 — Seguretat informàtica.
+## Mòduls professionals implicats
 
 
 
-&#x20;RA associats per mòdul
+- MP01 — Muntatge i manteniment d'equips.
+
+- MP02 — Sistemes operatius monolloc.
+
+- MP05 — Xarxes locals.
+
+- MP06 — Seguretat informàtica.
+
+
+## RA associats per mòdul
 
 
 
-\- MP01 — RA: identificació i manteniment dels equips informàtics.
+- MP01 — RA: identificació i manteniment dels equips informàtics.
 
-\- MP05 — RA: identificació, disseny i configuració d'una xarxa local.
+- MP05 — RA: identificació, disseny i configuració d'una xarxa local.
 
-\- MP06 — RA: aplicació de mesures de seguretat i protecció de la informació.
-
-
-
-&#x20;Criteris de qualitat del repte
+- MP06 — RA: aplicació de mesures de seguretat i protecció de la informació.
 
 
-
-\- relevancia: Sí, respon a necessitats d'un centre educatiu.
-
-\- Treball en equip: Sí, es reparteix en tres rols simulats.
-
-\- Creativitat: Sí, combina xarxes, manteniment i ciberseguretat.
-
-\- Connexió professional: Sí, són tasques habituals de SMX.
+## Criteris de qualitat del repte
 
 
 
-&#x20;Requeriments tècnics
+- relevancia: Sí, respon a necessitats d'un centre educatiu.
+
+- Treball en equip: Sí, es reparteix en tres rols simulats.
+
+- Creativitat: Sí, combina xarxes, manteniment i ciberseguretat.
+
+- Connexió professional: Sí, són tasques habituals de SMX.
 
 
 
-\- Hardware: ordinadors, router, switch i punts d'accés Wi-Fi.
-
-\- Programari: sistema operatiu actualitzat, eines de configuració de xarxa i programari de còpies de seguretat.
+## Requeriments tècnics
 
 
 
-&#x20;Limitacions o restriccions
+- Hardware: ordinadors, router, switch i punts d'accés Wi-Fi.
+
+- Programari: sistema operatiu actualitzat, eines de configuració de xarxa i programari de còpies de seguretat.
 
 
 
-\- Pressupost reduït i aprofitament dels equips existents.
-
-\- Temps de planificació de cinc setmanes.
-
-\- No es faran canvis reals en la xarxa del col·legi durant aquesta pràctica.
+## Limitacions o restriccions
 
 
 
-&#x20;Validació del professorat
+- Pressupost reduït i aprofitament dels equips existents.
+
+- Temps de planificació de cinc setmanes.
+
+- No es faran canvis reals en la xarxa del col·legi durant aquesta pràctica.
+
+
+
+## Validació del professorat
 
 
 
