@@ -1,6 +1,4 @@
-\# Aula Digital — Projecte Intermodular SMX 
-
-&#x20; 
+# Aula Digital — Projecte Intermodular SMX 
 
 Transformació d'una aula tradicional en una aula digital: mobiliari 
 
@@ -9,38 +7,30 @@ específic per a ordinadors, armari rack amb switch i router, rosetes
 RJ45 a la paret per a una xarxa d'àrea local, eixida a internet, 
 
 pissarra digital i impressora en xarxa. 
-
-&#x20; 
-
 \## Autor 
 
-&#x20; 
 
-\- ANTHONY HERNÁNDEZ (@lightsoff23) 
+- ANTHONY HERNÁNDEZ (@lightsoff23) 
 
-&#x20; 
 
-\## Rols simulats 
 
-&#x20; 
+## Rols simulats 
 
-\- Rol A — Coordinació i pressupostos 
 
-\- Rol B — Instal·lació física i xarxa 
+- Rol A — Coordinació i pressupostos 
 
-\- Rol C — Sistemes, serveis i documentació 
+- Rol B — Instal·lació física i xarxa 
 
-&#x20; 
+- Rol C — Sistemes, serveis i documentació 
 
-\## Contingut del repositori 
 
-&#x20; 
+## Contingut del repositori 
 
-\- `documents/` — documentació del projecte 
 
-\- `configuracio/` — configuracions tècniques 
+documents — documentació del projecte 
+configuracio — configuracions tècniques 
 
-\- `quadern/` — quadern personal de la Pràctica 1 
+quadern — quadern personal de la Pràctica 1 
 
 
 
